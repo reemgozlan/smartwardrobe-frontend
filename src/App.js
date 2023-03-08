@@ -22,6 +22,7 @@ function App() {
         <Route path="/home" element={<Homepage/>}/>
         <Route path="/allitems" element={<AllItems/>}/>
         <Route path="/alloutfits" element={<AllofTheOutfits/>}/>
+        <Route path="/outfitoftheday" element={<OutfitofTheDay/>}/>
        {/*  <Route path="/outfitoftheday" element={<OutfitofTheDay/>}/> */}
         <Route path="/newoutfit" element={<MakeanOutfit/>}/>
 
